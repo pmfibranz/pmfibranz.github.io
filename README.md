@@ -30,7 +30,7 @@
 ### Bachelor of Arts in Graphic Design
 
 *Institution:* Saginaw Valley State University  
-"Completed:* 2009  
+*Completed:* 2009  
 
 ## Contact
 
