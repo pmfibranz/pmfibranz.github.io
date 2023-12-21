@@ -87,9 +87,9 @@ Skilled and highly dedicated software engineer with a passion for architecting a
 
 ### Advanced Security Engineer
 
-**Company:** Nexteer Automotive
-**Location:** Saginaw, MI
-**Duration:** May 2018 - July 2022
+**Company:** Nexteer Automotive  
+**Location:** Saginaw, MI  
+**Duration:** May 2018 - July 2022  
 
 - Managed and configured Okta as the primary Identity Access Management solution on a global scale.
 - Responsible for the configuration and managment of the enterprise's internal certificate authority, as well as the tracking and renewal of SSL/TLS certificates.
@@ -99,9 +99,9 @@ Skilled and highly dedicated software engineer with a passion for architecting a
 
 ### ERP - IT Developer
 
-**Company:** Advantage Resourcing *at Nexteer Automotive*
-**Location:** Saginaw, MI
-**Duration:** February 2017 - May 2018
+**Company:** Advantage Resourcing *at Nexteer Automotive*  
+**Location:** Saginaw, MI  
+**Duration:** February 2017 - May 2018  
 
 - Development and support of custom SharePoint issue management & tracking solution
 - Participated in QAD ERP system upgrade by developing, updating and testing system customizations.
@@ -109,9 +109,9 @@ Skilled and highly dedicated software engineer with a passion for architecting a
 
 ### ERP - IT Co-op
 
-**Company:** Nexteer Automotive
-**Location:** Saginaw, MI
-**Duration:** May 2016 - February 2017
+**Company:** Nexteer Automotive  
+**Location:** Saginaw, MI  
+**Duration:** May 2016 - February 2017  
 
 - Managed the shared document migration from Google Docs to Microsoft One Drive for the ERP Team.
 - Designed and developed custom issue management & tracking solution using Microsoft SharePoint.
