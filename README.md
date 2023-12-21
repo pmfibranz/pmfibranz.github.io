@@ -153,13 +153,14 @@ Skilled and highly dedicated software engineer with a passion for architecting a
 
 ## Certifications
 
-- Okta Certified Professional
+- **Okta Certified Professional:** 2019 - Present
 
 ## Training & Conferences
 
-- Live! 360: 2023
-- Blackhat - Computer Forensics Workshop: 2019
-- Oktane: 2018, 2019
+- **Live! 360:** 2023
+- **Blackhat:** 2019 (Computer Forensics Workshop)
+- **Oktane:** 2018, 2019
+- **Midwest Users Group (MWUG):** 2016
 
 ## Contact
 
