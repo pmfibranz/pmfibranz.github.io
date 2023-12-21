@@ -37,6 +37,12 @@ jobs:
       - name: Build VuePress site
         run: pnpm build
 
+      - name: Copy CNAME file
+        uses: canastro/copy-action@0.0.2
+        with:
+          source: CNAME
+          target: .vuepress/dist/CNAME
+
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
       - name: Deploy to GitHub Pages
