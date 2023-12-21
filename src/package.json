@@ -1,0 +1,15 @@
+{
+  "name": "pmfibranz.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "author": "Philip Fibranz",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.0"
+  }
+}
