@@ -6,9 +6,9 @@ Skilled and highly dedicated software engineer with a passion for architecting a
 
 ### Software Engineer
 
-*Company:* Nexteer Automotive
+*Company:* Nexteer Automotive  
 *Location:* Saginaw, MI  
-*Duration:* 2016 - Present
+*Duration:* 2016 - Present  
 
 - Led the architecture and development of multiple globally-used software solutions, including a critical IT solution responsible for user lifecycle management.
 - Possess expertise in cloud-native system architecture, leveraging common cloud technologies such as containerization and orchestration (e.g., Docker and Kubernetes), as well as other resources specific to Azure cloud services.
