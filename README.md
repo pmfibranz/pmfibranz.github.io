@@ -39,7 +39,7 @@
 ### Bachelor of Arts in Graphic Design
 
 *Institution:* Saginaw Valley State University  
-*Minor:* Business Management
+*Minor:* Business Management  
 *Completed:* 2009  
 
 ## Contact
