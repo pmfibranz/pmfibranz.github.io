@@ -92,7 +92,7 @@ Skilled and highly dedicated software engineer with a passion for architecting a
 **Duration:** May 2018 - July 2022  
 
 - Managed and configured Okta as the primary Identity Access Management solution on a global scale.
-- Responsible for the configuration and managment of the enterprise's internal certificate authority, as well as the tracking and renewal of SSL/TLS certificates.
+- Responsible for the configuration and management of the enterprise's internal certificate authority, as well as the tracking and renewal of SSL/TLS certificates.
 - Completed Yubikey evaluation and proof of concept.
 - Participated in hiring process, onboarding, and mentoring of an international team member stationed in India.
 - Directly supervised and mentored the Informations Security & Privacy summer intern. Was also responsible for payroll approvals & performance review.
@@ -103,9 +103,9 @@ Skilled and highly dedicated software engineer with a passion for architecting a
 **Location:** Saginaw, MI  
 **Duration:** February 2017 - May 2018  
 
-- Development and support of custom SharePoint issue management & tracking solution
+- Development and support of custom SharePoint issue management & tracking solution.
 - Participated in QAD ERP system upgrade by developing, updating and testing system customizations.
-- Developed multiple customer specific label printing modules in the QAD ERP system to fulfill customer requirements
+- Developed multiple customer specific label printing modules in the QAD ERP system to fulfill customer requirements.
 
 ### ERP - IT Co-op
 
@@ -121,7 +121,7 @@ Skilled and highly dedicated software engineer with a passion for architecting a
 
 **Company:** Wolgast Restoration  
 **Location:** Freeland, MI  
-**Duration:** 2014 - 2015  
+**Duration:** June 2014 - September 2015  
 
 - Managed up to thirty-five projects simultaneously of various sizes.
 - Constructed and adhered to schedules and budgets for each project to completion.
@@ -131,7 +131,7 @@ Skilled and highly dedicated software engineer with a passion for architecting a
 
 **Company:** AB Edwards Restoration LLC  
 **Location:** Pigeon, MI  
-**Duration:** 2010 - 2014  
+**Duration:** July 2010 - June 2014  
 
 - Participated in all aspects of the project from general labor to management of the entire project.
 - Supervised crews in excess of ten members and multiple sub-contractors throughout the duration of projects.
