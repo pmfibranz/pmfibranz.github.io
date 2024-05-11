@@ -10,11 +10,11 @@
   "author": "Philip Fibranz",
   "license": "ISC",
   "devDependencies": {
-    "vuepress": "^2.0.0-rc.0"
+    "vuepress": "^2.0.0-rc.0",
     "@vuepress/bundler-vite": "^2.0.0-rc.9"
   },
   "dependencies": {
-    "vue": "^3.3.13"
+    "vue": "^3.3.13",
     "@vuepress/theme-default": "^2.0.0-rc.28"
   }
 }
