@@ -2,8 +2,8 @@
 
 ## Day 1 - Truth Comes From God
 
->The sum of your word is truth,
->and every on of your righteous rules endures forever.
+>The sum of your word is truth,  
+>and every on of your righteous rules endures forever.  
 >*- Psalm 119:160 -*
 
 - Players had to determine what was the truth and what was a lie. We must do this in life as well. Remind kids of Psalm 119:160
@@ -71,9 +71,9 @@ Set cones in rectangular area with a dividing line
 
 ## Day 2 - God's Plan Is Best
 
->Trust in the Lord with all your heart,
->and do not lean on your own understanding.
->In all your ways acknowledge him and he will make straight your paths.
+>Trust in the Lord with all your heart,  
+>and do not lean on your own understanding.  
+>In all your ways acknowledge him and he will make straight your paths.  
 >*-Proverbs 3:5-6 -*
 
 ### Game 1 - Ships In The Dark
@@ -85,7 +85,7 @@ Set cones in rectangular area with a dividing line
 
 ## Day 3 - Everyone Needs Jesus
 
->for all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the. redemption that is in Christ Jesus,
+>for all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the. redemption that is in Christ Jesus,  
 >*- Romans 3:23-24 -*
 
 ### Game 1 - Flip Flop Frenzy
@@ -96,10 +96,10 @@ Set cones in rectangular area with a dividing line
 
 ## Day 4 - Jesus Is The Only Way / Speak The Truth In Love
 
->And there is salvation in no one else, for there is nother name under heave given amoung men by which we must be saved.
+>And there is salvation in no one else, for there is nother name under heave given amoung men by which we must be saved.  
 >*- Acts 4:12 -*
 
->Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ,
+>Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ,  
 >*- Ephesians 4:14 -*
 
 ### Game 1 - Beach Ball Blitz
