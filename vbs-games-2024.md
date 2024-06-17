@@ -22,7 +22,7 @@
 - Players had to determine what was the truth and what was a lie. We must do this in life as well. Remind kids of Psalm 119:160
 - Say: "Some people will say things like, 'Truth can be different for different people,' but we know that truth comes from God."
 
-**6:25-7:00 :** 4th/5th. 
+**6:25-7:00 :** 4th/5th  
 **7:05-7:40 :** 3rd
 
 ### Game 1 - True or False Tag
