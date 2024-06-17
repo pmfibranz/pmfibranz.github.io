@@ -22,7 +22,7 @@
 - Players had to determine what was the truth and what was a lie. We must do this in life as well. Remind kids of Psalm 119:160
 - Say: "Some people will say things like, 'Truth can be different for different people,' but we know that truth comes from God."
 
-**6:25-7:00 :** 4th/5th
+**6:25-7:00 :** 4th/5th. 
 **7:05-7:40 :** 3rd
 
 ### Game 1 - True or False Tag
@@ -104,7 +104,7 @@ _For older kids assign point values to each cone/disk color. The team with the m
 > In all your ways acknowledge him and he will make straight your paths.  
 > _-Proverbs 3:5-6 -_
 
-**6:25-7:00 :** 1stB
+**6:25-7:00 :** 1stB  
 **7:05-7:40 :** 1stA/2nd
 
 ### Game 1 - Ships In The Dark
@@ -185,7 +185,7 @@ _Since working with younger kids pre-make some or all of the boats_
 > for all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the. redemption that is in Christ Jesus,  
 > _- Romans 3:23-24 -_
 
-**6:25-7:00 :** 4th/5th
+**6:25-7:00 :** 4th/5th  
 **7:05-7:40 :** 3rd
 
 ### Game 1 - Flip Flop Frenzy
@@ -270,7 +270,7 @@ _Display the theme verse (Romans 12:2) on a poster board_
 > Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ,  
 > _- Ephesians 4:14 -_
 
-**6:25-7:00 :** 1stB
+**6:25-7:00 :** 1stB  
 **7:05-7:40 :** 1stA/2nd
 
 ### Game 1 - Beach Ball Blitz
