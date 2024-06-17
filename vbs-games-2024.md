@@ -3,13 +3,15 @@
 ## The Team
 
 - [Philip Fibranz](mailto:philip@fibranz.dev)
-- Kaden Passage
 - Caroline Forsythe
 - Brittany Boven
 - Stephanie LaPointe
+- Beth Gottleber
+- Lindsey Brewer
 - Josie Boven
 - Jonathan Kirkpatrick
 - Samuel Kirkpatrick
+- Kenny Bird
 
 ## Day 1 - Truth Comes From God
 
